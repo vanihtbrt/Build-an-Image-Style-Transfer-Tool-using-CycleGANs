@@ -1,6 +1,6 @@
 # Build an Image Style Transfer Tool using CycleGANs
 ## Author : Cognitiveclass.ai
-## Mentee assignment from IBM Advance AI @Infinite Learning Course Completion of Build an Image Style Transfer Tool using CycleGANs from Sina Nazeri and Talha Siddiqui
+## Mentee assignment from IBM Advance AI @Infinite Learning Course Completion of Build an Image Style Transfer Tool using CycleGANs from Cognitiveclass.ai
 ## >>>>>>>>>><<<<<<<<<<<<<
 ### Mentee Info 
 ### Name : Yovani Vitanova
